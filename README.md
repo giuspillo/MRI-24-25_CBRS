@@ -1,2 +1,3 @@
 # MRI-24-25_CBRS
-Content Based RecSys examples for the MRI Course, academic year 2024-2025
+
+Notebook e dati per le esercitazioni sui Content-based RecSys, per il corso "Metodi per il Ritrovamento dell'Informazione", anno accademico 2024-2025.
